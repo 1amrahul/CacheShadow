@@ -894,7 +894,7 @@ class CachePoisoningScanner:
 def main():
     banner = """
     ╔═══════════════════════════════════════════════════════════════╗
-    ║             🕷️  CacheShadow v3.0  🕷️                            ║
+    ║             🕷️  CacheShadow v3.0  🕷️                           ║
     ║         Advanced Web Cache Poisoning Scanner                  ║
     ║         "Exposing the shadows in your cache"                  ║
     ║                                                               ║
