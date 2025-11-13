@@ -1,0 +1,38 @@
+# CacheShadow - Advanced Web Cache Poisoning Scanner
+# Requirements file for Python dependencies
+
+# Core HTTP library
+requests>=2.31.0
+
+# Optional: For colored terminal output (uncomment if you want to add colors)
+# colorama>=0.4.6
+# termcolor>=2.3.0
+
+# Optional: For progress bars during multi-threaded scans (uncomment if needed)
+# tqdm>=4.66.0
+
+# Optional: For better JSON output formatting (uncomment if needed)
+# pygments>=2.16.0
+
+# Optional: For DNS resolution testing (uncomment if needed)
+# dnspython>=2.4.0
+
+# Optional: For advanced SSL/TLS testing (uncomment if needed)
+# pyOpenSSL>=23.2.0
+# cryptography>=41.0.0
+
+# Note: Python 3.7+ is required
+# The following are part of Python standard library:
+# - argparse
+# - json
+# - hashlib
+# - time
+# - sys
+# - warnings
+# - re
+# - datetime
+# - string
+# - random
+# - concurrent.futures
+# - typing
+# - urllib.parse
