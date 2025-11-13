@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-- GitHub Issues: [Report bugs or request features](https://github.com/CacheShadow/cacheshadow/issues)
+- GitHub Issues: [Report bugs or request features](https://github.com/1amrahul/CacheShadow/issues)
 
 ## 🔗 Resources
 
